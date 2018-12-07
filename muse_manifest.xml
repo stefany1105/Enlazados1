@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1544214959720">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1544217607119">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="49810575" ref="que-es-un-enlace:tipos-de-enlace:instrucciones:electronegatividad:contacto:cofre:sos"/>
@@ -11,12 +11,12 @@
     <file name="nomq_que-es-un-enlace.css" crc="4111599697" ref="que-es-un-enlace"/>
     <file name="mapa.css" crc="364145758" ref="mapa"/>
     <file name="nomq_mapa.css" crc="454540326" ref="mapa"/>
-    <file name="tipos-de-enlace.css" crc="395402183" ref="tipos-de-enlace"/>
+    <file name="tipos-de-enlace.css" crc="298493656" ref="tipos-de-enlace"/>
     <file name="nomq_tipos-de-enlace.css" crc="4236692280" ref="tipos-de-enlace"/>
     <file name="nivel-1.css" crc="357856073" ref="nivel-1"/>
     <file name="nomq_nivel-1.css" crc="19892200" ref="nivel-1"/>
-    <file name="instrucciones.css" crc="3925663368" ref="instrucciones"/>
-    <file name="nomq_instrucciones.css" crc="4095052366" ref="instrucciones"/>
+    <file name="instrucciones.css" crc="4129384850" ref="instrucciones"/>
+    <file name="nomq_instrucciones.css" crc="3978009378" ref="instrucciones"/>
     <file name="electronegatividad.css" crc="390529754" ref="electronegatividad"/>
     <file name="nomq_electronegatividad.css" crc="472271837" ref="electronegatividad"/>
     <file name="nivel-2.css" crc="3836403319" ref="nivel-2"/>
@@ -31,8 +31,8 @@
     <file name="nomq_cofre.css" crc="381468094" ref="cofre"/>
     <file name="nivel-4.css" crc="4026256720" ref="nivel-4"/>
     <file name="nomq_nivel-4.css" crc="434883682" ref="nivel-4"/>
-    <file name="sos.css" crc="4085772200" ref="sos"/>
-    <file name="nomq_sos.css" crc="4281406919" ref="sos"/>
+    <file name="sos.css" crc="4199502003" ref="sos"/>
+    <file name="nomq_sos.css" crc="185070152" ref="sos"/>
     <file name="nivel-5.css" crc="4154407301" ref="nivel-5"/>
     <file name="nomq_nivel-5.css" crc="3920859521" ref="nivel-5"/>
   </folder>
@@ -184,18 +184,18 @@
     <file name="u20157-118.png" crc="225057356" ref="electronegatividad"/>
     <file name="u20157-119.png" crc="225057356" ref="electronegatividad"/>
   </folder>
-  <file name="index.html" crc="165516005" seo="true" mt="1544135684424" redirect="true"/>
-  <file name="cofre.html" crc="3881637729" seo="true" mt="1544211834451" redirect="true"/>
-  <file name="sos.html" crc="3881148660" seo="true" mt="1544214899655" redirect="true"/>
-  <file name="mapa.html" crc="3971949636" seo="true" mt="1544211605879" redirect="true"/>
-  <file name="nivel-1.html" crc="3821928692" seo="true" mt="1544211473100" redirect="true"/>
-  <file name="nivel-2.html" crc="3813425956" seo="true" mt="1544211473100" redirect="true"/>
-  <file name="nivel-3.html" crc="190701329" seo="true" mt="1544213228032" redirect="true"/>
-  <file name="nivel-4.html" crc="128653656" seo="true" mt="1544213793307" redirect="true"/>
-  <file name="nivel-5.html" crc="4038200989" seo="true" mt="1544211473100" redirect="true"/>
-  <file name="que-es-un-enlace.html" crc="326094879" seo="true" mt="1544211110643" redirect="true"/>
-  <file name="tipos-de-enlace.html" crc="231313096" seo="true" mt="1544211110643" redirect="true"/>
-  <file name="electronegatividad.html" crc="298551897" seo="true" mt="1544211110643" redirect="true"/>
-  <file name="instrucciones.html" crc="443990839" seo="true" mt="1544214656564" redirect="true"/>
-  <file name="contacto.html" crc="328463772" seo="true" mt="1544214426047" redirect="true"/>
+  <file name="index.html" crc="4159371664" seo="true" mt="1544135684424" redirect="true"/>
+  <file name="cofre.html" crc="4244363052" seo="true" mt="1544211834451" redirect="true"/>
+  <file name="sos.html" crc="177847330" seo="true" mt="1544217508324" redirect="true"/>
+  <file name="mapa.html" crc="3921773187" seo="true" mt="1544211605879" redirect="true"/>
+  <file name="nivel-1.html" crc="274473552" seo="true" mt="1544211473100" redirect="true"/>
+  <file name="nivel-2.html" crc="517344931" seo="true" mt="1544211473100" redirect="true"/>
+  <file name="nivel-3.html" crc="4162904034" seo="true" mt="1544217418497" redirect="true"/>
+  <file name="nivel-4.html" crc="4225473190" seo="true" mt="1544213793307" redirect="true"/>
+  <file name="nivel-5.html" crc="337797201" seo="true" mt="1544211473100" redirect="true"/>
+  <file name="que-es-un-enlace.html" crc="168382455" seo="true" mt="1544211110643" redirect="true"/>
+  <file name="tipos-de-enlace.html" crc="30957046" seo="true" mt="1544217397504" redirect="true"/>
+  <file name="electronegatividad.html" crc="3925428865" seo="true" mt="1544211110643" redirect="true"/>
+  <file name="instrucciones.html" crc="3942959853" seo="true" mt="1544215112137" redirect="true"/>
+  <file name="contacto.html" crc="263750274" seo="true" mt="1544214426047" redirect="true"/>
 </manifest>
